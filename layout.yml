@@ -1,0 +1,29 @@
+line:
+  x: 5mm
+  width: 53mm
+  align: center
+  color: white
+public_name:
+  extends: line
+  font: 'Montserrat Black 128'
+  y: 5mm
+  height: 53mm
+  valign: middle
+secret_name:
+  extends: line
+  font: 'Montserrat Black 64'
+  y: 5mm
+indicator:
+  extends: line
+  font: 'Montserrat SemiBold 48'
+  y: 15mm
+icon:
+  x: 15mm
+  y: 25mm
+  width: 33mm
+  height: 33mm
+instructions:
+  extends: line
+  font: 'Montserrat Regular Italic 36'
+  y: 63mm
+  height: 20mm

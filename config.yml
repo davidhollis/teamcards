@@ -1,0 +1,6 @@
+custom_colors:
+  red: '#880000'
+  blue: '#000088'
+  green: '#008800'
+  yellow: '#c8c800'
+img_dir: './images'

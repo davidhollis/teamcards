@@ -1,0 +1,11 @@
+en_US:
+  team_names:
+    red: 'Red Team'
+    blue: 'Blue Team'
+    green: 'Green Team'
+    yellow: 'Yellow Team'
+  indicator:
+    secret: 'Hidden'
+  instructions:
+    public: 'Reveal this card once everyone has been dealt a team card.'
+    secret: 'Keep this card hidden until the end of the game.'
