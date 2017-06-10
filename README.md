@@ -23,8 +23,8 @@ For example, in a 5-player game of _Magic: The Gathering_, shuffle together
   - a **Red Team** card,
   - a **Red Team Hidden** card,
   - a **Blue Team** card,
-  - a **Blue Team Hidden** card,
-  - and a **Green Team Hidden** card.
+  - a **Blue Team Hidden** card, and
+  - a **Green Team Hidden** card.
 
 Deal them out, then have the non-Hidden players reveal their cards. A team wins when the only players remaining in the game are all on the same team.
 
